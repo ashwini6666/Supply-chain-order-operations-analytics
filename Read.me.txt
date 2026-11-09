@@ -1,0 +1,90 @@
+# Supply Chain & Order Operations Analytics – Power BI Project
+
+## About This Project
+
+Hi! I am learning Data Analytics and this is one of my Power BI projects.
+
+In this project, I worked with order and sales data to understand sales performance, delivery status, products, and customers.
+
+I used Power BI to clean the data, create relationships, write DAX measures, and build an interactive dashboard.
+
+## Tools Used
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Microsoft Excel
+
+## Dataset
+
+The dataset contains sample order data with 300 order records.
+
+It includes the following tables:
+
+- **FactOrders** – Order details, sales, quantity, discounts, shipping costs, and delivery dates.
+- **DimProduct** – Product names, categories, prices, costs, and suppliers.
+- **DimCustomer** – Customer names, cities, regions, and customer segments.
+
+## What I Did in This Project
+
+1. Imported the Excel dataset into Power BI.
+2. Cleaned and transformed the data using Power Query.
+3. Created relationships between the tables.
+4. Created DAX measures to calculate sales, profit, orders, and delivery performance.
+5. Built three report pages with charts, cards, tables, and slicers.
+6. Tested the slicers and visual interactions.
+
+## Dashboard Pages
+
+### 1. Order Overview
+
+- Total Orders
+- Total Net Sales
+- Total Profit
+- Profit Margin
+- Average Order Value
+- Monthly Sales
+- Sales by Category and Region
+- Order Status
+
+### 2. Delivery Performance
+
+- Delivered Orders
+- On-Time Delivered Orders
+- Delayed Delivered Orders
+- On-Time Delivery Percentage
+- Average Delay Days
+- Delivery performance by region and sales channel
+
+### 3. Product & Customer Analysis
+
+- Total Products Sold
+- Total Customers
+- Sales by Product
+- Sales by Category
+- Sales by Customer Segment
+- Sales by Region
+- Product performance details
+
+## What I Learned
+
+While working on this project, I practised:
+
+- Data cleaning using Power Query
+- Creating relationships between tables
+- Writing DAX measures
+- Creating KPI cards and charts
+- Using slicers and filters
+- Building interactive reports in Power BI
+
+## Project Files
+
+- `Supply_Chain_Order_Operations_Analytics.pbix` – Power BI report
+- `PowerBI_Supply_Chain_Operations_Dataset.xlsx` – Dataset used for this project
+- `screenshots` – Dashboard screenshots
+
+## Conclusion
+
+This project helped me practise Power BI and understand how order, sales, product, customer, and delivery data can be analysed using dashboards.
+
+I am continuing to improve my Data Analytics skills through practical projects.
